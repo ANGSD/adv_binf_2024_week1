@@ -1,4 +1,4 @@
-# Advanced Bioinformatics for Next-Generation Sequencing 2024: Week 1
+# Advanced Bioinformatics for Next-Generation Sequencing 2025: Week 1
 
 
 
@@ -6,8 +6,8 @@
 Day | Time |  Subject | Lecturer
 --- | --- | --- | ---
 Day 1 - Monday | 9:15 - 12 | NGS data - Workflow, formats and programs | Thorfinn Sand Korneliussen
-Day 2 - Tuesday | 13:15 - 16 | Mapping - Suffix arrays and Burrows-Wheeler Transform | Rasmus A. Henriksen
-Day 3 - Friday | 9:15 - 12 | Surprice | Victor Morenomayar
+Day 2 - Tuesday | 13:15 - 16 | Mapping - Suffix arrays and Burrows-Wheeler Transform | Thorfinn Sand Korneliussen (Julian Regalardo)
+Day 3 - Friday | 9:15 - 12 | Surprise | Victor Morenomayar
 
 
 # Getting started
