@@ -5,9 +5,9 @@
 
 Day | Time |  Subject | Lecturer
 --- | --- | --- | ---
-Day 1 - Monday | 9:15 - 12 | NGS data - Workflow, formats and programs | Thorfinn Sand Korneliussen
-Day 2 - Tuesday | 13:15 - 16 | Mapping - Suffix arrays and Burrows-Wheeler Transform | Thorfinn Sand Korneliussen (Julian Regalardo)
-Day 3 - Friday | 9:15 - 12 | Surprise | Victor Morenomayar
+Day 1 - Monday | 13:00 - 16:00 | NGS data - Workflow, formats and programs | Thorfinn Sand Korneliussen
+Day 2 - Wednesday | 9:15 - 12:00 | Mapping - Suffix arrays and Burrows-Wheeler Transform | Thorfinn Sand Korneliussen (Julian Regalardo)
+Day 3 - Wednesday | 13:00 - 16:00 | Surprise | Victor Morenomayar
 
 
 # Getting started
